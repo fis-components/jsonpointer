@@ -1,0 +1,10 @@
+{
+    "name": "jsonpointer",
+    "description": "Simple JSON Addressing.",
+    "repos": "https://github.com/janl/node-jsonpointer.git",
+    "main": "jsonpointer",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "1.1.0"
+}
